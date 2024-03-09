@@ -30,5 +30,7 @@ def setup_data():
     # Remove zip file
     os.remove(data_path / "pizza_steak_sushi.zip")
 
+    return image_path
+
 if __name__ == "__main__":
     setup_data()
