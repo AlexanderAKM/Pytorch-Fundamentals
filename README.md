@@ -1,4 +1,5 @@
 # Pytorch-Fundamentals
-In this repository I am following the 24-hour course on Pytorch by Daniel Bourke.
+In this repository I completely followed and completed the 24-hour course on Pytorch by Daniel Bourke.
+Website: https://www.learnpytorch.io/
 YouTube: https://www.youtube.com/watch?v=Z_ikDlimN6A
 His Github repository: https://github.com/mrdbourke/pytorch-deep-learning/?tab=readme-ov-file
